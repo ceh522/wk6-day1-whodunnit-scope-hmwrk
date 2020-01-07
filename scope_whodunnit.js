@@ -118,7 +118,7 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 // Prediction: Colonel Mustard, because he's outside the other functions and so can be used by changeMurderer when it is called
-// Answer: Mrs White - her detail's have been used when plotTwist was called, as so was used when calling declareMurderer and so it was the value that pulled through when trying to get the verdict
+// Answer: Mrs White - her details have been used when plotTwist was called, as so was used when calling declareMurderer and so it was the value that pulled through when trying to get the verdict
 
 // Episode 7
 //
